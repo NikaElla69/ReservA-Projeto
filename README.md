@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Restaurant Table Reservation App
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# ReservA-Projeto
+>>>>>>> 39e741cef16f215938cae350b4f2d7cf28d37917
